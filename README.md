@@ -1,2 +1,3 @@
 # proje
 wdsa
+shutdown -i
